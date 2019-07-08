@@ -57,5 +57,10 @@ Instalaçao do projeto
 Clone do projeto 'git clone https://github.com/fabiano1606/LojaWeb-com-NodeJS-e-PassportJS.git';
 O aplicativo se encontra dentro da pasta 'LojaWeb-com-NodeJS-e-PassportJS'.
  
+ 
+<img src='https://github.com/fabiano1606/LojaWeb-com-NodeJS-e-PassportJS/blob/master/Preview/Preview-Loja.png'></img>
+<img src='https://github.com/fabiano1606/LojaWeb-com-NodeJS-e-PassportJS/blob/master/Preview/Preview-Carrinho.png'></img>
+<img src='https://github.com/fabiano1606/LojaWeb-com-NodeJS-e-PassportJS/blob/master/Preview/Preview-SignIn.png'></img>
+
 
 Criado por: Fabiano Massignani Figueredo - fabiano-smi@hotmail.com
