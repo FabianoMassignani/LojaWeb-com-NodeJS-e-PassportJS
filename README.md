@@ -58,7 +58,7 @@ Clone do projeto 'git clone https://github.com/fabiano1606/LojaWeb-com-NodeJS-e-
 O aplicativo se encontra dentro da pasta 'LojaWeb-com-NodeJS-e-PassportJS'.
  
  
-<img style="border:3px solid black;" src='https://github.com/fabiano1606/LojaWeb-com-NodeJS-e-PassportJS/blob/master/Preview/Preview-Loja.png'></img>
+<img style="border: 4px solid #f00; margin: 20px;" src='https://github.com/fabiano1606/LojaWeb-com-NodeJS-e-PassportJS/blob/master/Preview/Preview-Loja.png'></img>
 														      
 <img style="border:3px solid black;" src='https://github.com/fabiano1606/LojaWeb-com-NodeJS-e-PassportJS/blob/master/Preview/Preview-Carrinho.png' ></img>
 
