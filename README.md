@@ -1,4 +1,4 @@
-	A proposta da aplicação é um site de compras,onde existe todo um processo, 
+A proposta da aplicação é um site de compras,onde existe todo um processo, 
 que começa na consulta de produtos ofertados pelo estabelecimento até o 
 pagamento. Quando você seleciona seus produtos, eles são adicionados 
 para um carrinho de compra virtual, que pode ir recebendo novos produtos 
