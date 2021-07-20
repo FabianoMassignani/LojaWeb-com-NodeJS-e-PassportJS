@@ -13,46 +13,46 @@ Connect, incluindo o Express.
 
 
 
-Instalação do NodeJS e do NPM
+- Instalação do NodeJS e do NPM
 
 Acesse https://nodejs.org;
 Instale o NodeJS comforme instruçoes.
 
 
-Instalação do MongoDB
+- Instalação do MongoDB
 
 Acesse https://www.mongodb.com/ para MongoDB,
 Instale a base de dados comforme instruçoes no site.
 
 
-Instalação da API
+- Instalação da API
 
 Clone do projeto -> git clone https://github.com/fabiano1606/LojaWeb-com-NodeJS-e-PassportJS.git;
 Entre na pasta API;
 Instalação das dependencias: Dentro da pasta do projeto abra o terminal e execute 'npm install'.
 
 
-Configuração da API
+- Configuração da API
 
 Dentro do arquivo config/config.js;
 No arquivo config.js é possivel alterar as variaveis de ambiente da API;
 Altere-as para que fiquem adequadas ao seu ambiente.
  
 
-Configuração da MongoDB
+- Configuração da MongoDB
 
 Inicie o  terminal;
 Dentro do terminal execute 'cd C:\Users\...\LojaWeb\seed\';
 Dentro do terminal execute 'node product-seeder.js' para criacao das tabelas'.
 
 
-Execução do Projeto
+- Execução do Projeto
 
 Inicie o NodeJS ;
 Dentro da pasta do projeto execute 'npm start' para iniciar a API.
   
 
-Instalaçao do projeto
+- Instalaçao do projeto
 
 Clone do projeto 'git clone https://github.com/fabiano1606/LojaWeb-com-NodeJS-e-PassportJS.git';
 O aplicativo se encontra dentro da pasta 'LojaWeb-com-NodeJS-e-PassportJS'.
@@ -65,4 +65,4 @@ O aplicativo se encontra dentro da pasta 'LojaWeb-com-NodeJS-e-PassportJS'.
 <img  src='https://github.com/fabiano1606/LojaWeb-com-NodeJS-e-PassportJS/blob/master/Preview/Preview-SignIn.png'></img>
 
 
-Criado por: Fabiano Massignani Figueredo - fabiano-smi@hotmail.com
+- Criado por: Fabiano Massignani Figueredo - fabiano-smi@hotmail.com
