@@ -1,8 +1,8 @@
 A proposta da aplicação é um site de compras,onde existe todo um processo, 
 que começa na consulta de produtos ofertados pelo estabelecimento até o 
-pagamento. Quando você seleciona seus produtos, eles são adicionados 
-para um carrinho de compra virtual, que pode ir recebendo novos produtos 
-até que você decida que quer finalizar a compra. Neste momento, pode ser
+pagamento. Apos selecionar seus produtos, eles são adicionados 
+ao carrinho de compra virtual, que pode ir recebendo novos produtos 
+até que você decida finalizar a compra. Neste momento, pode ser
 solicitado à você uma autenticação, caso ela não tenha ainda sido realizada.
 Podendo também realizar posteriormente a consultas dos itens comprados.
 Inicialmente o projeto pode apenas fazer o cadastro e o login em modo local,
